@@ -1,4 +1,4 @@
-/* Shares Korok’s quiet woodland layout, with Kaepora’s navy and amber palette. */
+/* Shares Korok’s quiet woodland layout, with Relay’s teal palette. */
 :root { color-scheme: dark; --bg: #101821; --ink: #f2eee5; --muted: #b8c0ca; --amber: #e9ae5e; --line: #33404b; }
 * { box-sizing: border-box; margin: 0; }
 body { color: var(--ink); background: radial-gradient(ellipse 800px 620px at 50% 220px, #2b3540 0%, transparent 80%), var(--bg); font: 16px/1.65 -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; -webkit-font-smoothing: antialiased; }

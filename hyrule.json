@@ -1,13 +1,13 @@
 {
   "$schema": "https://iamjason.github.io/hyrule-compendium-site/schema/hyrule.schema.json",
-  "name": "Kaepora",
-  "command": "kaepora",
+  "name": "Relay",
+  "command": "relay",
   "tagline": "Sends each link to the browser you choose from your menu bar.",
   "status": "experimental",
   "language": "Swift",
-  "icon": "https://iamjason.github.io/kaepora-site/assets/icon.png",
+  "icon": "https://iamjason.github.io/relay-site/assets/icon.png",
   "platforms": [
     "macos"
   ],
-  "docs": "https://iamjason.github.io/kaepora-site/"
+  "docs": "https://iamjason.github.io/relay-site/"
 }
